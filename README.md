@@ -13,12 +13,12 @@ gem httparty
 [rawg.io](https://rawg.io/apidocs)
 
 ## Rawg Module
-* [Client api](https://github.com/jcmcardama/api_wrapper/blob/main/app/api/rawg/client.rb)
+* [Client API](https://github.com/jcmcardama/api_wrapper/blob/main/app/api/rawg/client.rb)
     * Uses `call` method of the Request class
-* [Request api](https://github.com/jcmcardama/api_wrapper/blob/main/app/api/rawg/request.rb)
+* [Request API](https://github.com/jcmcardama/api_wrapper/blob/main/app/api/rawg/request.rb)
     * Uses `get` requests from the Third party API
     * Transforms body of response to a parsed JSON
-* [Error api](https://github.com/jcmcardama/api_wrapper/blob/main/app/api/rawg/request.rb)
+* [Error API](https://github.com/jcmcardama/api_wrapper/blob/main/app/api/rawg/request.rb)
     * Handles the `error` message from the Third party API
 
 ## Controller example
