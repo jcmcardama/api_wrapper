@@ -53,6 +53,14 @@ Rails.application.routes.draw do
 end
 ```
 
-#### License
+## Example responses
+* [Successful Response](./assets/successful_response.PNG)
+    * Successful Response with the parsed body
+* [Not Found Response](./assets/not_found_response.PNG)
+    * Not Found Response with the error message
+* [Unauthorized Response](./assets/not_found_response.PNG)
+    * Unauthorized Response with the error message
+
+## License
 
 Copyright (c) 2022 Jan Carlo Cardama
