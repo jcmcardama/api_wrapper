@@ -54,11 +54,11 @@ end
 ```
 
 ## Example responses
-#### Successful Response with the parsed body
+#### Successful Request
 ![Successful Response](./assets/successful_response.PNG)
-#### Not Found Response with the error message
+#### Invalid Request
 ![Not Found Response](./assets/not_found_response.PNG)
-#### Unauthorized Response with the error message
+#### Invalid Token
 ![Unauthorized Response](./assets/not_found_response.PNG)
 
 ## License
