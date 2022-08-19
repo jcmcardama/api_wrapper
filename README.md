@@ -2,10 +2,11 @@
 
 A program that helps you access a third party API that will make the process of API calls easier.
 
-## GEM used
+## GEM information
 
 ```
-gem httparty
+ruby "3.1.2"
+gem "httparty"
 ```
 
 ## Third Party API used
