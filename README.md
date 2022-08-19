@@ -10,7 +10,7 @@ gem httparty
 
 ## Third Party API used
 
-[Rawg.io](https://rawg.io/apidocs).
+[Rawg.io](https://rawg.io/apidocs)
 
 ## Rawg Module
 * [Client api](https://github.com/jcmcardama/api_wrapper/blob/main/app/api/rawg/client.rb)
