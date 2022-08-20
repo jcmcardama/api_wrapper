@@ -2,7 +2,7 @@ module Rawg
     class Request
         include HTTParty
         base_uri 'https://api.rawg.io/api'
-        default_params key: '7dfc13582a4240a5b7a8a010ee133c92'
+        default_params key: Rails.application.config.x.rawg.token
 
         def self.call(endpoint)
             response = get("#{endpoint}")
