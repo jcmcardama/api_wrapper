@@ -7,6 +7,8 @@ A program that helps you access a third party API that will make the process of 
 ```
 ruby "3.1.2"
 gem "httparty"
+gem 'rspec-rails'
+gem 'dotenv-rails'
 ```
 
 ## Third Party API used
